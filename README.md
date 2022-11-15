@@ -5,4 +5,4 @@ I am from Switzerland. I am the owner of lux-avenue, a web design / SEO agency. 
 
 *   🌍  I'm based in Bern Switzerland
 *   ✉️  You can contact me at [marco.bigler@lux-avenue.ch](mailto:marco.bigler@lux-avenue.ch)
-*   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.lux-avenue.ch/)  
+*   
